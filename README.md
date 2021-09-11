@@ -1,4 +1,8 @@
-### Hi there 👋
+### 👋
+
+- 🌱 ITMO University 21-25; K3144; ID: 336999
+- 📫 tg: @crisprrrrr
+- ✨ letter 'h' in the word 'programming' means 'happiness' 
 
 <!--
 **maria-tereshina-336999/maria-tereshina-336999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
