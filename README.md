@@ -1,6 +1,6 @@
 ### 👋
 
-- 🌱 ITMO University 21-25; K3144; ID: 336999
+- 🌱 ITMO University 22-26; U3475; ID: 336999
 - 📫 tg: @crisprrrrr
 - ✨ letter 'h' in the word 'programming' means 'happiness' 
 
